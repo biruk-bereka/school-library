@@ -79,7 +79,8 @@ Or download the ZIP folder.
 Once you've cloned the repository simply run:
 
 ```
-cd Enumerable
+cd school-library
+
 ```
 
 And this should open the directory with all the files from the repository on the command line, to open it in your explorer if you're using windows you can run:
