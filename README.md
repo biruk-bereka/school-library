@@ -7,6 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [New Features](#new-features)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -43,6 +44,10 @@
 - Person class created
 - Student class created
 - Teacher class created
+
+### New Features
+  - Base Decorator created
+  - Person class decorated with Decorator
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +133,6 @@ This project is not deployed
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Use the "Decorator" design pattern.**
 - [ ] **Set up associations.**
 - [ ] **Add basic UI.**
 - [ ] **Refactor code.**
