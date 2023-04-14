@@ -46,14 +46,15 @@
 - Teacher class created
 - Base Decorator created
 - Person class decorated with Decorator
-### New Features
 - Create a class Classroom
 - Create association between classroom and student 
 - Create a class Book 
 - Create a class Rental
 - Create association between book and rental 
 - Create asssociaiton between person and rental 
-  
+### New Features
+- Add basic UI
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -138,7 +139,6 @@ This project is not deployed
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add basic UI.**
 - [ ] **Refactor code.**
 - [ ] **Preserve data.**
 - [ ] **Unit tests.**
